@@ -1,18 +1,10 @@
 # TrafficFlow-Prediction
 Deep Learning-based Traffic Flow Prediction system using GRU networks to forecast urban congestion. Incorporates time-series data, weather, and event factors to improve accuracy, achieving 89% directional accuracy and low prediction error. Designed for smart city and real-time traffic management applications.
-<h1 align="center">🚦 Traffic Flow Prediction</h1>
-<h3 align="center">📊 Deep Learning for Smart Traffic Management</h3>
-
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-✅ Completed-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-🚧 In%20Progress-yellow?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Model-🤖 GRU-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Accuracy-📈 89%25-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Performance-📊 Improving-lightgrey?style=for-the-badge" />
 </p>
-
-<p align="center">
-  🚀 Predicting urban traffic patterns using time-series deep learning models
-</p>
-
 ---
 
 ## 🧭 Table of Contents
